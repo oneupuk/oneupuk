@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Klim 
 
-<!--
-**oneupuk/oneupuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Specialisation: Web Development
+- Studying: T-Level Digital Software Development
+  
+### Tech stack:
+- Languages: JavaScript, TypeScript, CSS , HTML , Python , SQL.
+- Development Tools: Git, Npm, Vite, Command Line(ZSH, Bash).
 
-Here are some ideas to get you started:
+### GitHub stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=oneupuk&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project: My Personal Website
+
+### Contacts
+  <a href="mailto:ameklenya@gmail.com">
+    <p>Gmail</p>
+    <a/>
+  <a href="https://www.linkedin.com/in/klymentii-amelichev-780468397/">
+    <p>Linkedin</p>
+  </a>
