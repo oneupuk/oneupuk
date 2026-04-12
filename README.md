@@ -12,7 +12,7 @@
 
 ### Current Project: My Personal Website
 
-### Contacts
+### Contacts:
   <a href="mailto:ameklenya@gmail.com">
     <p>Gmail</p>
     <a/>
