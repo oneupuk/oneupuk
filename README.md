@@ -8,7 +8,10 @@
 - Development Tools: Git, Npm, Vite, Command Line(ZSH, Bash).
 
 ### GitHub stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=oneupuk&theme=radical)
+
+<div align = "center">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=oneupuk&theme=radical)
+</div>
 
 ### Current Project: My Personal Website
 
