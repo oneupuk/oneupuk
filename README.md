@@ -7,10 +7,10 @@
 - Languages: JavaScript, TypeScript, CSS , HTML , Python , SQL.
 - Development Tools: Git, Npm, Vite, Command Line(ZSH, Bash).
 
-### GitHub stats
+### GitHub stats:
 
 <div align = "center">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=oneupuk&theme=radical)
+  <img src= "https://streak-stats.demolab.com/?user=oneupuk&theme=radical" >
 </div>
 
 ### Current Project: My Personal Website
