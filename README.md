@@ -2,6 +2,7 @@
 
 - Specialisation: Web Development
 - Studying: T-Level Digital Software Development
+- Working as a Backend developer at Warnborough College 
   
 ### Tech stack:
 - Languages: JavaScript, TypeScript, CSS , HTML , Python , SQL.
