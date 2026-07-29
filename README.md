@@ -18,8 +18,8 @@
 
 ### Contacts:
   <a href="mailto:ameklenya@gmail.com">
-    <p>Gmail</p>
+    <img src="./assets/GmailLogo.png" width="60" alt="Email">
     <a/>
   <a href="https://www.linkedin.com/in/klymentii-amelichev-780468397/">
-    <p>Linkedin</p>
+    <img src="./assets/LinkedinLogo.png" width="50" alt="Linkedin">
   </a>
