@@ -6,7 +6,7 @@
   
 ### Tech stack:
 - Languages: JavaScript, TypeScript, CSS , HTML , Python , SQL.
-- Development Tools: Git, Npm, Vite, Command Line(ZSH, Bash).
+- Development Tools: Git, Npm, Vite, Command Line(ZSH, Bash), MS Acess, Arch linux.
 
 ### GitHub stats:
 
