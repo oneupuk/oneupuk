@@ -14,8 +14,6 @@
   <img src= "https://streak-stats.demolab.com/?user=oneupuk&theme=radical" >
 </div>
 
-### Current Project: My Personal Website
-
 ### Contacts:
   <a href="mailto:ameklenya@gmail.com">
     <img src="./assets/GmailLogo.png" width="60" alt="Email">
