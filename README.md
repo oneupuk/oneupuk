@@ -1,8 +1,8 @@
 # Hi I'm Klim 
 
 - Specialisation: Web Development
-- Studying: T-Level Digital Software Development (second year)
-- Working as a Full Stack Developer at Warnborough College (from august 2026)
+- Studying: T-Level Digital Software Development 
+- Working as a Full Stack Developer at Warnborough College 
   
 ### Tech stack:
 - Languages: JavaScript, TypeScript, CSS , HTML , Python , SQL.
